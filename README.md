@@ -1,3 +1,14 @@
+---
+published: false
+---
+
+# infinity-project
+
+無限に続く永遠の制作プロジェクト
+
+---
+以下メモ
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hal-shu-sato/infinity-license/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
