@@ -6,6 +6,11 @@
 と思った方々、いませんか？  
 そんな方たちに向けて、今回**永遠に続く創作プロジェクト**を立ち上げます。
 
+## 告知動画
+
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm38346967/script?w=320&h=180"></script><noscript><a href="https://www.nicovideo.jp/watch/sm38346967">無限に続く永遠の制作プロジェクト「∞プロジェクト」【「　　　　」（Untitled）】</a></noscript>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/Y8UPA-D2glI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 企画の内容
 
 1. 私（ato lash）が曲以外まったく何もない動画をアップロードする
