@@ -6,10 +6,13 @@
 と思った方々、いませんか？  
 そんな方たちに向けて、今回**永遠に続く創作プロジェクト**を立ち上げます。
 
-## 告知動画
+## 告知動画・ツイート
 
 <script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm38346967/script?w=320&h=180"></script><noscript><a href="https://www.nicovideo.jp/watch/sm38346967">無限に続く永遠の制作プロジェクト「∞プロジェクト」【「　　　　」（Untitled）】</a></noscript>
 <iframe width="320" height="180" src="https://www.youtube.com/embed/Y8UPA-D2glI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+告知ツイートは[こちら](https://twitter.com/hal_shu_sato/status/1365867078134079488)！  
+ぺージの下部にも貼ってあります。[ジャンプ！](#告知ツイート)
 
 ## 企画の内容
 
@@ -95,3 +98,7 @@ n次創作物には、私とn次創作者たちのn人にそれぞれ権利が�
 ## お問い合わせ
 
 主催：ato lash - [Twitter](https://twitter.com/hal_shu_sato) [ニコニコ](https://www.nicovideo.jp/user/43034063)
+
+## 告知ツイート
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">∞プロジェクト―無限に続く永遠の制作プロジェクト<br>「　　　　」（Untitled）<br>～あなたも　　を作ってみませんか？～<br>詳細はスレッドに続きます！(1/3)<br><br>企画の詳細はこちらでも！<a href="https://t.co/iiqzyKMnM7">https://t.co/iiqzyKMnM7</a><a href="https://twitter.com/hashtag/%E7%84%A1%E9%99%90%E3%83%97%E3%83%AD?src=hash&amp;ref_src=twsrc%5Etfw">#無限プロ</a> <a href="https://twitter.com/hashtag/Untitled?src=hash&amp;ref_src=twsrc%5Etfw">#Untitled</a> <a href="https://twitter.com/hashtag/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E4%BC%81%E7%94%BB%E5%BF%9C%E5%8B%9F?src=hash&amp;ref_src=twsrc%5Etfw">#ユーザー企画応募</a> <a href="https://twitter.com/hashtag/%E3%83%8D%E3%83%83%E3%83%88%E8%B6%85%E4%BC%9A%E8%AD%B02021?src=hash&amp;ref_src=twsrc%5Etfw">#ネット超会議2021</a> <a href="https://twitter.com/hashtag/%E5%8F%82%E5%8A%A0?src=hash&amp;ref_src=twsrc%5Etfw">#参加</a> <a href="https://t.co/7OyzF0cVni">pic.twitter.com/7OyzF0cVni</a></p>&mdash; ato lash🍎∞プロジェクト (@hal_shu_sato) <a href="https://twitter.com/hal_shu_sato/status/1365867078134079488?ref_src=twsrc%5Etfw">February 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
