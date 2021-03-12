@@ -96,6 +96,10 @@ n次創作物には、私とn次創作者たちのn人にそれぞれ権利が�
 
 どうかご協力をお願いします。_―ato lash_
 
+## よくある質問（FAQ）
+
+よくある質問は[こちら](faq)
+
 ## お問い合わせ
 
 主催：ato lash - [Twitter](https://twitter.com/hal_shu_sato) [ニコニコ](https://www.nicovideo.jp/user/43034063)
