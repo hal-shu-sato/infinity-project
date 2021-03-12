@@ -62,6 +62,7 @@
 
 超会議期間中は、「超∞プロジェクト」として、投稿ラッシュウィークとします！  
 毎日、19:00に一斉投稿しましょう！
+![超∞プロジェクト詳細](https://pbs.twimg.com/media/EvSI3cAU4AQi6gc?format=jpg&name=medium)
 
 ## 日程
 
