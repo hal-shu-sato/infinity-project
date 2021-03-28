@@ -6,6 +6,17 @@
 と思った方々、いませんか？  
 そんな方たちに向けて、今回**永遠に続く創作プロジェクト**を立ち上げます。
 
+## 【お知らせ】最初の動画を公開！！
+
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm38501998/script?w=320&h=180"></script><noscript><a href="https://www.nicovideo.jp/watch/sm38501998">「　　　　」（Untitled）【無限に続く永遠の制作プロジェクト「∞プロジェクト」】</a></noscript>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/mgeNff1P3xc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 【お知らせ】Stemデータも公開！！
+
+[利用規約](faq)をよく読んでご利用ください。
+
+[**Stemデータをダウンロード！**](https://drive.google.com/file/d/1EfDHRHFh_ZokOZr3dzKnc8TL9AtuSaBn/view?usp=sharing)
+
 ## 告知動画・ツイート
 
 <script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm38346967/script?w=320&h=180"></script><noscript><a href="https://www.nicovideo.jp/watch/sm38346967">無限に続く永遠の制作プロジェクト「∞プロジェクト」【「　　　　」（Untitled）】</a></noscript>
@@ -70,8 +81,8 @@
 ---- | ----
 2021/02/28 | プロジェクト告知
 2021/02/28 | 告知動画投稿
-2021/03/28（予定） | 最初の動画投稿
-2021/03/28～（↑投稿後）（予定） | みんなの動画投稿
+2021/03/28 | 最初の動画投稿
+2021/03/28～（↑投稿後） | みんなの動画投稿
 2021/04/24～05/01 | 超∞プロジェクト
 
 ## その他
