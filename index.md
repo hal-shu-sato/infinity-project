@@ -13,9 +13,9 @@
 
 ## 【お知らせ】Stemデータも公開！！
 
-[利用規約](terms)をよく読んでご利用ください。
+[**利用規約**](terms)をよく読んでご利用ください。
 
-[**Stemデータをダウンロード！**](https://drive.google.com/file/d/1EfDHRHFh_ZokOZr3dzKnc8TL9AtuSaBn/view?usp=sharing)
+[**Stemデータをダウンロード！**](https://drive.google.com/file/d/1EfDHRHFh_ZokOZr3dzKnc8TL9AtuSaBn/view?usp=sharing)（zip形式/471MB）
 
 ## 告知動画・ツイート
 
